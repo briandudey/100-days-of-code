@@ -12,3 +12,10 @@ Learning more about JavaScript Object(s) - I know it will click, eventually. Fin
 
 ### R1D3
 Learned Git and GitHub. Worked on a project focused on HTML/CSS Forms. Got to challenge #16 on FreeCodeCamp. Dove deeper into JavaScript Objects
+
+#### R1D4
+JavaScript, JavaScript, 
+JavaScript, JavaScript,
+JavaScript, JavaScript
+JavaScript, JavaScript
+GitHub
