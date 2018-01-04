@@ -9,3 +9,6 @@ Introduced to some JQuery Logic. 30 minutes of typing practice (forcing my hand 
 
 ### R1D2
 Learning more about JavaScript Object(s) - I know it will click, eventually. Finished a challenge using CSS positions.
+
+### R1D3
+Learned Git and GitHub. Worked on a project focused on HTML/CSS Forms. Got to challenge #16 on FreeCodeCamp. Dove deeper into JavaScript Objects
