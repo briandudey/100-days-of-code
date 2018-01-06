@@ -6,12 +6,15 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Monday, 2018].
 
 ### R1D1 
 Introduced to some JQuery Logic. 30 minutes of typing practice (forcing my hand placement to be correct is so hard!). 
+Two hours with mentor (Anna)
 
 ### R1D2
 Learning more about JavaScript Object(s) - I know it will click, eventually. Finished a challenge using CSS positions.
+Two hours with mentor (Anna)
 
 ### R1D3
 Learned Git and GitHub. Worked on a project focused on HTML/CSS Forms. Got to challenge #16 on FreeCodeCamp. Dove deeper into JavaScript Objects
+One hour with mentor (Anna)
 
 #### R1D4
 JavaScript, JavaScript, 
@@ -19,3 +22,8 @@ JavaScript, JavaScript,
 JavaScript, JavaScript
 JavaScript, JavaScript
 GitHub
+
+### R1D5
+Realized I shorted myself a day on Twitter - fixed that. Got up to challenge #80 on FreeCodeCamp.
+Also, continued my exploration of JavaScript objects which can include arrays and arrays can include objects
+Two hours with mentor (Anna)
