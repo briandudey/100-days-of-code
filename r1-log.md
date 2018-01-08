@@ -27,3 +27,9 @@ GitHub
 Realized I shorted myself a day on Twitter - fixed that. Got up to challenge #80 on FreeCodeCamp.
 Also, continued my exploration of JavaScript objects which can include arrays and arrays can include objects
 Two hours with mentor (Anna)
+
+### R1D6
+So many objects and arrays. I have moments where I think I get it and then others where it all escapes me. It really is a whole new language.
+
+### R1D7
+Tomorrow is my test and I am incredibly nervous. I know I have tried my best to get all the information down in an incredibly short period of time. We'll see how things go tomorrow. Wish me luck!
