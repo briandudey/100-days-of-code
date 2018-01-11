@@ -33,3 +33,14 @@ So many objects and arrays. I have moments where I think I get it and then other
 
 ### R1D7
 Tomorrow is my test and I am incredibly nervous. I know I have tried my best to get all the information down in an incredibly short period of time. We'll see how things go tomorrow. Wish me luck!
+
+### R1D8
+Passed my test. I officially start bootcamp in one week.
+
+### R1D9
+Trying not to be overwhelmed by jQuery. I honestly still have no idea what "it" is.
+
+### R1D10
+JavaScript links to jQuery and can make changes to the DOM. Ummmm. Yeah.
+
+
