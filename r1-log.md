@@ -43,4 +43,5 @@ Trying not to be overwhelmed by jQuery. I honestly still have no idea what "it" 
 ### R1D10
 JavaScript links to jQuery and can make changes to the DOM. Ummmm. Yeah.
 
-
+### R1D11
+Still trying to make sense of the DOM tree. I understand the concept but am having a difficult time putting it into practice.
