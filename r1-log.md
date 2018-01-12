@@ -45,3 +45,6 @@ JavaScript links to jQuery and can make changes to the DOM. Ummmm. Yeah.
 
 ### R1D11
 Still trying to make sense of the DOM tree. I understand the concept but am having a difficult time putting it into practice.
+
+### R1D12
+Feeling a bit overwhelmed with the amount of things I need to download and learn. Putting everything into practice is going to be a huge help.
