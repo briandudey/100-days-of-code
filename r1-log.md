@@ -48,3 +48,6 @@ Still trying to make sense of the DOM tree. I understand the concept but am havi
 
 ### R1D12
 Feeling a bit overwhelmed with the amount of things I need to download and learn. Putting everything into practice is going to be a huge help.
+
+### R1D13
+Introduced to functionality of Node in a way that finally made sense. 
