@@ -51,3 +51,9 @@ Feeling a bit overwhelmed with the amount of things I need to download and learn
 
 ### R1D13
 Introduced to functionality of Node in a way that finally made sense. 
+
+### R1D14
+I took it easy today. Bootcamp starts tomorrow.
+
+### R1D15
+Bootcamp started. Git, GitHub, JavaScript. Working with a partner, Saugat.
