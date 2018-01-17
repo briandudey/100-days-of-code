@@ -57,3 +57,6 @@ I took it easy today. Bootcamp starts tomorrow.
 
 ### R1D15
 Bootcamp started. Git, GitHub, JavaScript. Working with a partner, Saugat.
+
+### R1D16
+Bootcamp Day 2. Arrays, While Loops, Arrays in Arrays. Totally different experience today - felt very lost. My partner was Alicia.
