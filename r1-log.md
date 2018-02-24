@@ -59,4 +59,10 @@ I took it easy today. Bootcamp starts tomorrow.
 Bootcamp started. Git, GitHub, JavaScript. Working with a partner, Saugat.
 
 ### R1D16
-Bootcamp Day 2. Arrays, While Loops, Arrays in Arrays. Totally different experience today - felt very lost. My partner was Alicia.
+Bootcamp Day 2. Arrays, While Loops, Arrays in Arrays. Totally different experience today - felt very lost.
+
+##R1D17-R1D53
+Bootcamp Day 3 - End of Week 5. Wow. I have learned so much in such a short period of time. I can't believe that I had no idea what an api was just 54 days ago. Now I know how to make an api. I have a long way to go though. Coding still does not feel natural to me and I do get lost easier than I'd like to admit but I know the work I am putting into this is going to pay off. Also, I just remembered that this page is, technically, public. So, anyone can read it. That would be weird.
+
+##R1D54
+I forgot I was meant to update this. Read about github and keeping up a good "commit streak" and that reminded me that I liked jotting down things in here. Hopefully, it will show me how far I have come once the 100 days is done.
