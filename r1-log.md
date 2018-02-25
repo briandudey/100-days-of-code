@@ -66,3 +66,6 @@ Bootcamp Day 3 - End of Week 5. Wow. I have learned so much in such a short peri
 
 ##R1D54
 I forgot I was meant to update this. Read about github and keeping up a good "commit streak" and that reminded me that I liked jotting down things in here. Hopefully, it will show me how far I have come once the 100 days is done.
+
+##R1D55
+Started learning about React and immediately jumping into a React side project so that I can do my best to stay ahead of the lightning bolt speed of my immersion course where we start learning React on Monday.
