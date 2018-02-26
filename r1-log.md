@@ -69,3 +69,5 @@ I forgot I was meant to update this. Read about github and keeping up a good "co
 
 ##R1D55
 Started learning about React and immediately jumping into a React side project so that I can do my best to stay ahead of the lightning bolt speed of my immersion course where we start learning React on Monday.
+
+##R1D56 Trying to read about React and apply that knowledge is much trickier than doing React. There is some difficult logic to explain but in action just makes sense. I also went back to some JavaScript basics by starting a Udemy course called, "Javascript: Understanding the Wierd Parts"
