@@ -64,10 +64,14 @@ Bootcamp Day 2. Arrays, While Loops, Arrays in Arrays. Totally different experie
 ##R1D17-R1D53
 Bootcamp Day 3 - End of Week 5. Wow. I have learned so much in such a short period of time. I can't believe that I had no idea what an api was just 54 days ago. Now I know how to make an api. I have a long way to go though. Coding still does not feel natural to me and I do get lost easier than I'd like to admit but I know the work I am putting into this is going to pay off. Also, I just remembered that this page is, technically, public. So, anyone can read it. That would be weird.
 
-##R1D54
+### R1D54
 I forgot I was meant to update this. Read about github and keeping up a good "commit streak" and that reminded me that I liked jotting down things in here. Hopefully, it will show me how far I have come once the 100 days is done.
 
-##R1D55
+### R1D55
 Started learning about React and immediately jumping into a React side project so that I can do my best to stay ahead of the lightning bolt speed of my immersion course where we start learning React on Monday.
 
-##R1D56 Trying to read about React and apply that knowledge is much trickier than doing React. There is some difficult logic to explain but in action just makes sense. I also went back to some JavaScript basics by starting a Udemy course called, "Javascript: Understanding the Wierd Parts"
+### R1D56 
+Trying to read about React and apply that knowledge is much trickier than doing React. There is some difficult logic to explain but in action just makes sense. I also went back to some JavaScript basics by starting a Udemy course called, "Javascript: Understanding the Wierd Parts"
+
+### R1D57-65
+Not feeling so great today which makes it hard to focus. The last nine days or so have been quite the whirlwind with tons of information about React, Redux, React-Redux, React-Router and Redux Form. I'm doing my best to keep up and am getting most of the concepts but the moment I feel comfortable, we're on to something new. Next week we will start our first capstone project. I am nervous about it but I am also excited to not receive new information for two weeks so that I can hopefully start processing this stuff more.
